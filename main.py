@@ -10,7 +10,7 @@ async def get_punchline():
     return joke["id"], joke["punchline"]
     
 
-
+# This block will only be executed if this script is run directly (use for testing)
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8877)
+    uvicorn.run(app, host="0.0.0.0", port=8800)
