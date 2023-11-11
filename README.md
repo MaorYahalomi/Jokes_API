@@ -18,7 +18,7 @@ The Application is written in Python using FastAPI package
 ```
 git clone https://github.com/MaorYahalomi/Jokes_API.git
 ```
-2. change to the cloned repo folder:
+2. Change to the cloned repo folder:
 ```
 cd Jokes_API
 ```
