@@ -28,11 +28,11 @@ pip3 install fastapi
 ```
 4. Run the app using the command with your desired port (8877 for example):
 ```
-uvicorn main:app --host 0.0.0.0 --port 8877  --reload
+uvicorn main:app --host 0.0.0.0 --port 8800  --reload
 ```
 5. Access the web application using curl or browser using this url (replace x.x.x.x with your public IP):
 ```
-http://x.x.x.x:8877
+http://x.x.x.x:8800
 ```
 
 Example of the output:
