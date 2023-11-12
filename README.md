@@ -27,7 +27,7 @@ cd Jokes_API
 ```
 pip3 install fastapi
 ```
-4. Run the app using the command with your desired port (8877 for example):
+4. Run the app using the command with your desired port (8800 for example):
 ```
 uvicorn main:app --host 0.0.0.0 --port 8800  --reload
 ```
