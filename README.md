@@ -11,7 +11,8 @@ The Application is written in Python using FastAPI package
 | Package  | Version |
 | ------------- | ------------- |
 | fastapi  | 0.104.1  |
-
+| requests  | 2.25.1  |
+  
 ## How to use  ##
 
 1. Clone the code into your local server using this command:
